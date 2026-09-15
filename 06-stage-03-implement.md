@@ -17,5 +17,5 @@ D3.1: live processes and documented runbook.
 G3: first cycle shows movement on the locked metric.
 
 ## Sources
-- Deloitte proposal language: "Establish a Results Management Office to drive, coordinate, support, measure and track implementation activities." https://iowaregents.edu/media/cms/deloitte-pdfBE4F200D.pdf
+- Deloitte case study, "Reshaping an IT Operating Model Journey": "we established and staffed a Results Management Office (RMO) that directed all parties' efforts toward common goals in line with the CIO's strategic vision." Under the RMO, application development and maintenance became a discipline guided by three principles: prevent issues from occurring, accelerate resolution and the move to product, and eliminate problem sources with a permanent fix. https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-reshaping-an-it-operating-model-journey.pdf
 - Deloitte Enterprise Service Management: implementation roadmap and action plan as the bridge from design to execution. https://www2.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-cons-enterprise-service-management-accelerating-your-journey.pdf

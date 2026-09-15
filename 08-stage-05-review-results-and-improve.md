@@ -17,5 +17,5 @@ D5.1: improvement report and next-cycle plan.
 G5: named reviewer signs off before anything returns to the client.
 
 ## Sources
-- KPMG Advisory Quality Performance Reviews: performed by the Functional Quality and Risk Management Partner, rated green, yellow, or red on engagement set-up and execution. Source: KPMG Integrated Report 2024/2025. https://corporatereporting.kpmg.nl/
-- KPMG GETT stage gates: "an objective review of a pre-defined set of quality criteria which should be met or mitigated before each stage is exited." https://assets.kpmg.com/content/dam/kpmgsites/be/pdf/ALL-Quality-Assurance-and-Business-Integration-on-SAP-S4HANA-transformations-2026-EN-brochure-022-A4.pdf.coredownload.inline.pdf
+- KPMG Integrated Report 2024/2025: "In Advisory, QPRs are performed by our Functional Quality & Risk Management Partner. Two criteria are used to rate engagements: engagement set-up and engagement execution. Engagements are rated green, yellow or red; both green and yellow are considered satisfactory." Source: https://corporatereporting.kpmg.nl/search/2023_035
+- KPMG GETT stage gates: "an objective review of a pre-defined set of quality criteria which should be met or mitigated before each stage is exited." Source: https://assets.kpmg.com/content/dam/kpmgsites/be/pdf/ALL-Quality-Assurance-and-Business-Integration-on-SAP-S4HANA-transformations-2026-EN-brochure-022-A4.pdf.coredownload.inline.pdf

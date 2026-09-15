@@ -49,5 +49,6 @@ Any change to the running process — scope, channel, metric, owner — requires
 
 ## 8. Source Notes
 - Stage 04 decision and gate: see 01-delivery-methodology.md, Stage 04.
-- Recurring model basis: KPMG Powered Enterprise Evolve — post go-live support, value realization analysis, project closure, and transition to managed services programs, as applicable. Source: kpmg.com (Powered Enterprise Evolve service description).
-- Deloitte Operate services run on multi-year subscription models after the one-time build.
+- KPMG Powered Enterprise, Evolve phase: post go-live support, value realization analysis, project closure, and transition to managed services programs, as applicable. Source: https://kpmg.com/us/en/capabilities-services/advisory-services/kpmg-powered-enterprise.html
+- KPMG Powered Evolution: multi-year subscription with predictable costs to continually optimize a functional transformation after implementation. Source: https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/powered-evolution.pdf
+- Deloitte Operate services: ServiceNow platform hosting, administration, strategic advice, monitoring and maintenance, spanning six months to three years or more. Source: https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2025/servicenow-strategic-portfolio-management-pov.pdf

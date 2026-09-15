@@ -1,49 +1,42 @@
-# 10 — Template: Change Control Note (Stage 03 — Implement)
+# 10 — Template — Change Control Note
 
-**Status:** Draft template — advisory only, client-agnostic.
-**Purpose:** Record any scope move, dead hypothesis, or channel shift before work proceeds. Nothing moves without a written note, impact assessment, and both sides signing.
-**Traceability:** Stage 03 → Work 3.2 → Deliverable D3.2 → Gate G3.
+**Traces to:** Stage 02, work 2.4, deliverable D2.1, gate G2. Stage 03, gate G3.
 
----
+## Change Control Note
 
-## 1. Change Identity
-- Change Control Note number: [CCN-###]
-- Date raised: [date]
-- Raised by: [name, role — client or AugMind]
-- Engagement / Statement of Work reference: [link or ID]
+**Engagement:** [name]
+**CCN number:** [number]
+**Date raised:** [date]
+**Raised by:** [name, role]
 
-## 2. What Changed
-Describe the change in one or two sentences.
-- Previous state: [what was agreed or running]
-- New state: [what is proposed]
-- Category: [scope / channel / metric / owner / hypothesis / other]
+### 1. What changed
+[Describe the proposed change in one or two sentences.]
 
-## 3. Why
-- Reason for the change: [evidence, data, or client request]
-- Evidence attached or referenced: [link, file, or note]
+### 2. Why
+[The reason — new information, dead hypothesis, client request, evidence.]
 
-## 4. Impact Assessment
-- Impact on scope: [in / out / unchanged]
-- Impact on timeline: [days or weeks added or removed]
-- Impact on cost: [amount in U.S. dollars, or none]
-- Impact on the locked success metric: [unchanged / revised — state the new metric]
-- Impact on running processes (if any): [list affected processes from the runbook]
+### 3. Impact
+- Scope: [what is added, removed, or modified]
+- Timeline: [days or weeks added or removed]
+- Cost: [dollar impact, or "none"]
+- Locked metric: [does the success metric change? yes/no — if yes, new metric and owner]
 
-## 5. Decision
-- [ ] Accepted as proposed
-- [ ] Accepted with modifications: [describe]
-- [ ] Rejected: [reason]
-- [ ] Deferred: [reason and review date]
+### 4. Evidence
+[What supports this change — data, benchmark, client statement. Link or attach.]
 
-## 6. Signatures
-Nothing is effective until both sides sign.
+### 5. Decision
+- [ ] Approved — proceed as described
+- [ ] Approved with conditions: [list]
+- [ ] Rejected — continue under original scope
+- [ ] Deferred — revisit on [date]
 
-| Role | Name | Signature | Date |
+### 6. Signatures
+Nothing moves until both sides sign.
+
+| | Name | Signature | Date |
 |---|---|---|---|
-| Client owner | [name] |  |  |
-| AugMind engagement lead | [name] |  |  |
+| Client owner |  |  |  |
+| AugMind partner |  |  |  |
 
-## 7. Source Notes
-- Stage 03 gate G3: see 01-delivery-methodology.md, Stage 03.
-- Deloitte UK supplier terms, Schedule 4 — Change Control: if the parties agree to proceed, the supplier prepares a Change Control Note (CCN) within five business days; upon execution by both parties the relevant Statement of Work is taken to have been amended; if the supplier proceeds without a properly authorised CCN, performance is at the supplier's sole risk and expense. Source: https://www.deloitte.com/content/dam/assets-zone2/uk/en/docs/about/2025/deloitte-uk-supplier-terms-and-conditions-march-2025.pdf
-- KPMG GETT stage gates: objective review of quality criteria before each stage is exited. Source: KPMG GETT quality brochure.
+## Source
+Deloitte UK supplier terms, Schedule 4 — Change Control Note (CCN): "If Deloitte accepts the CCN... Deloitte and Supplier shall procure that their Representative execute, as soon as possible thereafter, two copies of the CCN... Upon the CCN being executed by both Parties, the relevant Statement of Work will be taken to have been amended in accordance with the CCN." If the Supplier proceeds without a properly authorised CCN, performance is at the Supplier's sole risk and expense. https://www.deloitte.com/content/dam/assets-zone2/uk/en/docs/about/2025/deloitte-uk-supplier-terms-and-conditions-march-2025.pdf

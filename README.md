@@ -17,6 +17,6 @@ Living draft mirrored from Notion. Edit in Notion; this repo is the versioned ca
 - `11-template-current-state-assessment.md` — current-state assessment template
 - `12-template-problem-decomposition.md` — problem decomposition worksheet template
 
-**QC status:** Pass 1 (source corrections) and Pass 2 (practitioner check) complete. Pass 3 (adversary check) pending.
+**QC status:** Pass 1 (source corrections), Pass 2 (practitioner check), and Pass 3 (adversary check) complete. All three recursive loops done.
 
 Status: Draft — advisory only, client-agnostic, numbered for traceability.

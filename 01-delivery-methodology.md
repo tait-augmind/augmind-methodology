@@ -72,7 +72,7 @@ Deliverable D5.1: improvement report and next-cycle plan.
 Gate G5: named reviewer signs off before anything returns to the client.
 
 ## 03 — Quality Gate (Advisory-Grade)
-Not audit. Risk-based review by one named person outside the delivery team on higher-value or higher-risk work. KPMG Advisory Quality Performance Reviews are performed by the Functional Quality and Risk Management Partner, rated green, yellow, or red on engagement set-up and execution. Source: KPMG Integrated Report 2024/2025.
+Not audit. Risk-based review by one named person outside the delivery team on higher-value or higher-risk work. KPMG Advisory Quality Performance Reviews are performed by the Functional Quality and Risk Management Partner, rated green, yellow, or red on engagement set-up and execution; both green and yellow are considered satisfactory. Source: KPMG Integrated Report 2024/2025. https://corporatereporting.kpmg.nl/search/2023_035
 
 ## 04 — Pricing
 Partners adopt the rate card before any Statement of Work ships. Client never sees "proposed." Four ways to buy: diagnostic, fixed-fee project, range with cap, capacity. Recurring tier for the run model. No rate discounts — scope shrinks instead.
@@ -81,7 +81,10 @@ Partners adopt the rate card before any Statement of Work ships. Client never se
 - KPMG current-state baseline: https://kpmg.com/us/en/how-we-work/client-stories/charting-course-new-value.html
 - KPMG stage gates (GETT): https://assets.kpmg.com/content/dam/kpmgsites/be/pdf/ALL-Quality-Assurance-and-Business-Integration-on-SAP-S4HANA-transformations-2026-EN-brochure-022-A4.pdf.coredownload.inline.pdf
 - Deloitte current-state to future-state: https://www2.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-cons-enterprise-service-management-accelerating-your-journey.pdf
-- Deloitte change control: Deloitte UK supplier terms, Schedule 4.
+- Deloitte Results Management Office: https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-reshaping-an-it-operating-model-journey.pdf
+- Deloitte change control: https://www.deloitte.com/content/dam/assets-zone2/uk/en/docs/about/2025/deloitte-uk-supplier-terms-and-conditions-march-2025.pdf
+- KPMG Powered Enterprise Evolve: https://kpmg.com/us/en/capabilities-services/advisory-services/kpmg-powered-enterprise.html
+- KPMG Powered Evolution: https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/powered-evolution.pdf
 - WordStream real-estate search benchmarks: CTR 7.61%, CPC $3.22, conversion 3.70%, CPL $102.51.
 - Gartner three metric classes: relationship, transactional, operational.
 - Forrester campaign hierarchy: Reputation, Demand, Engagement, Enablement.

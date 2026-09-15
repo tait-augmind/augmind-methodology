@@ -45,5 +45,5 @@ Nothing is effective until both sides sign.
 
 ## 7. Source Notes
 - Stage 03 gate G3: see 01-delivery-methodology.md, Stage 03.
-- Deloitte change-order process: written request, impact investigation, formal Change Order, nothing effective until both sides sign. Source: deloitte.com (UK supplier terms, Schedule 4 — Change Control).
-- KPMG stage gates: an objective review of a pre-defined set of quality criteria which should be met or mitigated before each stage is exited. Source: KPMG GETT quality brochure.
+- Deloitte UK supplier terms, Schedule 4 — Change Control: if the parties agree to proceed, the supplier prepares a Change Control Note (CCN) within five business days; upon execution by both parties the relevant Statement of Work is taken to have been amended; if the supplier proceeds without a properly authorised CCN, performance is at the supplier's sole risk and expense. Source: https://www.deloitte.com/content/dam/assets-zone2/uk/en/docs/about/2025/deloitte-uk-supplier-terms-and-conditions-march-2025.pdf
+- KPMG GETT stage gates: objective review of quality criteria before each stage is exited. Source: KPMG GETT quality brochure.

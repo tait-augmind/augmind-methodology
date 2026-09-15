@@ -2,7 +2,7 @@
 
 > De-identified run of the full five-stage method against real client data.
 > Client name changed to **Northbridge Auctions** (Mid-Atlantic regional real estate auction group).
-> All figures below are the client's actual proposed spend and stated metrics, sourced from their budget corpus and the discovery call. No numbers are invented.
+> Budget figures are the client's actual proposed spend from their budget corpus. The performance layer (views, downloads, bidders, hammer prices) is **extrapolated** from industry benchmarks (WordStream, LocaliQ, Gartner) and realistic auction-marketing funnel assumptions — labeled wherever it appears. No real client performance data exists in the corpus yet.
 > Purpose: prove the box runs end to end before the real engagement begins.
 
 ---
@@ -18,6 +18,7 @@
 | Client priorities | Discovery call | (1) Prospecting automation, (2) Paperwork automation, (3) Marketing spend effectiveness |
 | External benchmarks | WordStream / LocaliQ 2026 | Real estate search: CTR 7.61%, CPC $3.22, CVR 3.70%, CPL $102.51. Meta real estate leads: CTR 3.75–4.17%, CPC $1.27–$1.57, CPL $13.74–$16.61 |
 | Authority boundary | Discovery call | Website/SEO controlled nationally; local authority for prospecting and forms |
+| Extrapolated performance layer | Modeled from benchmarks + realistic auction funnel | Views, downloads, bidders, hammer prices, cost-per-bidder, ROI — **labeled, not attested** |
 
 ---
 
@@ -29,7 +30,7 @@
 
 1.1 Structured listening — three partners, three books (realtor/estate referrals; banks/foreclosures; institutional/REITs). Differentiator: 5–6 weeks to sale, cash, as-is, no due diligence.
 
-1.2 Current-state assessment — 43 budgets totaling $252,038 proposed spend. Channel mix: Google $48,457 (19.2%), Meta $35,847 (14.2%), LinkedIn $14,845 (5.9%), owned email $988 (0.39%), direct mail $45,654 (18.1%), signage/production/info packages $70,078 (27.8%). Zero campaigns record expected bidders, downloads, or cost per qualified outcome. Budgets reverse-engineered to round price caps (10 of 43 within $15 of a round thousand).
+1.2 Current-state assessment — 43 budgets totaling $252,038 proposed spend. Channel mix: Google $48,457 (19.2%), Meta $35,847 (14.2%), LinkedIn $14,845 (5.9%), owned email $988 (0.39%), direct mail $45,654 (18.1%), signage/production/info packages $70,078 (27.8%). Zero campaigns record expected bidders, downloads, or cost per qualified outcome. Budgets partly reverse-engineered to round price caps (10 of 43 within $15 of a round thousand); the rest are genuinely itemized.
 
 1.3 Future-state definition — a marketing operation where every dollar traces to a qualified outcome, owned data is cultivated, and the three rainmakers' prospecting survives them.
 
@@ -90,6 +91,34 @@ Terry is the most digital-heavy and the most Google-weighted. Stein leans Linked
 10 of 43 campaigns land within $15 of a round thousand (e.g., $1,500.46, $2,000.44, $5,001.60). The rest are not round. This is weaker evidence of pure round-cap budgeting than initially framed — some budgets are genuinely itemized, others are capped. The diagnostic should separate the two rather than assume all are caps.
 
 **Gate G1 (unchanged):** Client accepts the framing — "we have spend without outcome tracking, and the first build is measurement" — or names specific gaps. Silence is not acceptance.
+
+---
+
+## Stage 01c — Extrapolated Performance Layer (labeled, not attested)
+
+> No real performance data exists in the corpus. This layer is modeled from WordStream/LocaliQ benchmarks and a realistic auction-marketing funnel to prove the method handles outcome data when it arrives. Every figure here is flagged **[EXTRAPOLATED]**.
+
+### Funnel shape (modeled)
+
+| Metric | Modeled median | Basis |
+|---|---:|---|
+| Page views per campaign | ~5,977 | Log-normal, auction-marketing scale |
+| View-to-download rate | ~1.1% | Below WordStream search CVR 3.70% (directional; auction intent differs) |
+| Downloads per campaign | ~66 | Views × rate |
+| Download-to-bidder rate | ~3.0% | Auction-typical registration conversion |
+| Registered bidders per campaign | ~2 | Downloads × rate |
+| Hammer price | ~$333k | Log-normal, commercial/residential mix |
+| Cost per download | ~$147 | Spend ÷ downloads |
+| Cost per bidder | ~$3,973 | Spend ÷ bidders |
+| Modeled ROI (hammer ÷ spend) | ~42x | **Not attested — illustrative only** |
+
+### Channel attribution hypothesis (modeled)
+
+Meta drives ~62% of views but only ~38% of downloads. Google drives ~54% of downloads despite lower view share. Owned email is 0.39% of spend but, if cultivated, would capture high-intent repeat and referral traffic at near-zero marginal cost.
+
+**Implication:** rented social inflates awareness; paid search captures intent; owned email is the unbuilt retention layer. Spend currently follows awareness, not intent. This is the hypothesis the measurement system tests — it is not a conclusion.
+
+**All figures in this section are [EXTRAPOLATED] and must be replaced with real campaign, download, bidder, and hammer data at Stage 03.**
 
 ---
 
@@ -181,12 +210,13 @@ Terry is the most digital-heavy and the most Google-weighted. Stein leans Linked
 |---|---|---|---|---|
 | 01 | Structured listening, problem decomposition | 1.1–1.6 | D1.4 Statement of Work | G1 Accept framing |
 | 01b | Spend variance analysis (own) | 1.7–1.10 | D1.5 Partner/stream variance brief | G1 (feeds) |
+| 01c | Extrapolated performance layer (labeled) | 1.11–1.13 | D1.6 Modeled funnel brief | G1 (feeds, flagged) |
 | 02 | Advisory gates | 2.1–2.5 | D2.1 Signed SOW + measurement lock | G2 Sign SOW |
 | 03 | Advisory gates | 3.1–3.4 | D3.1 Live config + processes | G3 First cycle movement |
 | 04 | Advisory gates | 4.1–4.4 | D4.1 Runbook + retainer | G4 Accept run state |
 | 05 | Advisory gates | 5.1–5.4 | D5.1 Improvement report | G5 Quality sign-off |
 
-Every claim traces to a sourced input. No number is invented. The box runs.
+Every claim traces to a sourced input. Real numbers are real; extrapolated numbers are labeled. The box runs.
 
 ---
 
@@ -199,14 +229,16 @@ Every claim traces to a sourced input. No number is invented. The box runs.
 5. The quality gate ensures an independent reviewer checks the work before it reaches the client.
 6. The recurring revenue model (Validate and Run) is the natural end state, not an add-on.
 7. Own analysis of the corpus surfaces structural variance (Londrey 61%, three channel philosophies) that a light-touch read misses — and maps it cleanly to the three lanes.
+8. The extrapolated performance layer proves the method can ingest outcome data when it arrives — without pretending the data exists today.
 
 ## What still needs the real engagement
 
 - Actual spend vs. proposed spend (this corpus is proposed only).
-- Download-to-bidder conversion rates (currently unmeasured).
+- Download-to-bidder conversion rates (currently unmeasured — Stage 01c is modeled, not real).
 - Qualified bidder value (currently unknown).
 - Access to website analytics, CRM, and download records (pending client provision).
 - National board approval for website/SEO changes (parked, not abandoned).
 - Seller-relationship and paperwork data for the two qualitative lanes (workshop input).
+- Real hammer prices and bidder counts from the auction platform (replaces Stage 01c extrapolation).
 
 These are inputs for the real run, not gaps in the method. The method is ready.
